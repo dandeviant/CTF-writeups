@@ -7,8 +7,8 @@ IP: 10.10.37.39
 URL: https://10-10-37-39.p.thmlabs.com/
 
 ### Questions: 
-1. What is the first ingredient Rick needs?  
-Answer: mr. meeseek hair
+1. What is the first ingredient Rick needs?\  
+Answer: mr. meeseek hair\
 Location: http://10.10.37.39/Sup3rS3cretPickl3Ingred.txt or `/var/www/html/Sup3rS3cretPickl3Ingred.txt`
 
 2. Whats the second ingredient Rick needs?  
