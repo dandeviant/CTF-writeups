@@ -3,7 +3,7 @@ https://tryhackme.com/room/picklerick
 
 ---
 
-IP: 10.10.37.39
+IP: 10.10.37.39\
 URL: https://10-10-37-39.p.thmlabs.com/
 
 ### Questions: 
