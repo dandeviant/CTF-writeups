@@ -13,7 +13,7 @@ Location: http://10.10.37.39/Sup3rS3cretPickl3Ingred.txt or `/var/www/html/Sup3r
 
 2. Whats the second ingredient Rick needs?  
 Answer: 1 jerry tear\
-Location:` /home/rick/"second ingredients"`
+Location: `/home/rick/"second ingredients"`
 
 3. Whats the final ingredient Rick needs?
 Answer: fleeb juice\
