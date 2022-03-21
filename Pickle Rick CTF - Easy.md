@@ -11,11 +11,11 @@ URL: https://10-10-37-39.p.thmlabs.com/
 Answer: mr. meeseek hair\
 Location: http://10.10.37.39/Sup3rS3cretPickl3Ingred.txt or `/var/www/html/Sup3rS3cretPickl3Ingred.txt`
 
-2. Whats the second ingredient Rick needs?\  
+2. Whats the second ingredient Rick needs?  
 Answer: 1 jerry tear\
 Location:` /home/rick/"second ingredients"`
 
-3. Whats the final ingredient Rick needs?\
+3. Whats the final ingredient Rick needs?
 Answer: fleeb juice\
 Location: `/root/3rd.txt`
 
